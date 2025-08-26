@@ -380,9 +380,7 @@ A: Configurable up to system limits. Default maximum is 10GB per file.
 **Q: Does DDAS support network drives?**
 A: Yes, any mounted drive accessible via file path is supported.
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
