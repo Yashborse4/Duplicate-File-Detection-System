@@ -305,6 +305,3 @@ Contributors will be recognized in:
 - **GitHub Issues** for bugs and feature requests
 - **Email** maintainers for sensitive issues
 
-## 📄 License Agreement
-
-By contributing to this project, you agree that your contributions will be licensed under the same MIT License that covers the project.
